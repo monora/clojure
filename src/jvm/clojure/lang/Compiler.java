@@ -28,11 +28,11 @@ import java.util.regex.Matcher;
 //*/
 /*
 
-import org.objectweb.asm.*;
-import org.objectweb.asm.commons.Method;
-import org.objectweb.asm.commons.GeneratorAdapter;
-import org.objectweb.asm.util.TraceClassVisitor;
-import org.objectweb.asm.util.CheckClassAdapter;
+import clojure.asm.*;
+import clojure.asm.commons.Method;
+import clojure.asm.commons.GeneratorAdapter;
+import clojure.asm.util.TraceClassVisitor;
+import clojure.asm.util.CheckClassAdapter;
 //*/
 
 public class Compiler implements Opcodes{
